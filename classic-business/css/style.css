@@ -346,7 +346,7 @@ a {
   margin-bottom: 0;
   z-index: 111;
   align-items: flex-end;
-  background-color: #032a58 !important;
+  background-color: #fff !important;
 }
 
 .navbar-brand img {
@@ -363,7 +363,7 @@ a {
 }
 
 .navbar-light .navbar-nav .active>.nav-link {
-  color: #fff;
+  color: #032A58;
 }
 
 .navbar-light .navbar-nav .nav-item {
@@ -372,7 +372,7 @@ a {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: #fff;
+  color: #032A58;
   margin-right: 25px;
   transition: .8s ease;
   border-bottom: solid 3px transparent;
@@ -380,8 +380,8 @@ a {
 
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #fff;
-  border-bottom: solid 3px #fff;
+  color: #032A58;
+  border-bottom: solid 3px #032A58;
   transition: .8s ease;
 }
 
@@ -400,7 +400,7 @@ a {
 
 .navbar .social-icons ul li a {
   border-radius: 50%;
-  color: #fff;
+  color: #032A58;
   height: 40px;
   line-height: 42px;
   width: 40px;
@@ -440,7 +440,7 @@ a {
 .sidemenu_btn span {
   height: 2px;
   width: 100%;
-  background: #fff;
+  background: #032A58;
   display: block;
   margin: auto;
   transition: .5s ease;
@@ -1185,7 +1185,7 @@ a {
   font-size: 18px;
   padding: 30px;
   color: #fff;
-  background-color: #18191d;
+  background-color: #019BDF;
 }
 
 .active .price-tag h4 {
